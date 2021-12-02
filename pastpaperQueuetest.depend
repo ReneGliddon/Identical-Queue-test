@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1633573990 source:c:\users\samsung\desktop\code\pastpaperqueuetest\main.cpp
+	<iostream>
+	"queueType.h"
+	<queue>
+
+1633573543 c:\users\samsung\desktop\code\pastpaperqueuetest\queuetype.h
+	"queueADT.h"
+	<cassert>
+	<iostream>
+	<stack>
+	<queue>
+
+1633572381 c:\users\samsung\desktop\code\pastpaperqueuetest\queueadt.h
+
